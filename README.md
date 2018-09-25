@@ -7,6 +7,7 @@ All of my resources on web design.
 ## Websites for building websites.
 
 * Webflow
+* Weebly. Example websites: [Leiden Manifesto](http://www.leidenmanifesto.org/).
 * WIX
 * WordPress
 * [Google Sites.](https://sites.google.com/) Redesigned and much better than before. Easy to build good-looking websites. I have never used it, but it looks promising, even though weaker in functionality than alternatives, e.g. Webflow. Being a product of Google, it comes with all of the benefits of that. It also makes embedding Google Docs, YouTube videos, slides etc. very easy. A quick sample of examples and an introductory YouTube video [here](https://sites.google.com/sylvaniaschools.org/newsitessample).
